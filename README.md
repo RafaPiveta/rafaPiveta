@@ -6,7 +6,7 @@
 
 
 <div align="left">
-  <a href="https://www.instagram.com/rafa_piveta/">
+  <a href="www.linkedin.com/in/rafael-olivare-piveta">
     <img src="https://github.com/RafaPiveta/rafaPiveta/assets/105398921/3fc3eb8b-6c7d-48e2-a71f-ecf596336f97">
   </a>
   <a href="https://www.linkedin.com/in/rafael-olivare-piveta/">
