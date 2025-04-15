@@ -48,9 +48,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RafaPiveta&show_icons=true&theme=default" alt="Rafael Piveta GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaPiveta&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
