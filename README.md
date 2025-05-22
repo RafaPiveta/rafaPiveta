@@ -67,8 +67,8 @@ rafael_piveta
 
 ## 🛰️ Connect & Collaborate
 
-- [LinkedIn](https://www.linkedin.com/in/rafael-oliveira-piveta/)
-- [Email](mailto:rafaeloliveira@hotmail.com)
+- [LinkedIn]([https://www.linkedin.com/in/rafael-oliveira-piveta/](https://www.linkedin.com/in/rafael-olivare-piveta/))
+- [Email](mailto:rafaelolivare@hotmail.com)
 
 ---
 
