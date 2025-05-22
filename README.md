@@ -1,6 +1,6 @@
 <h1 align="center">Rafael Piveta 👨‍💻</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0099FF&center=true&vCenter=true&width=800&lines=IT+Infra+Analyst+%7C+Linux+%26+Network+Engineer;Open+Source+%7C+Automation+%7C+Backend+Dev;Always+Learning+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0099FF&center=true&vCenter=true&width=1000&lines=IT+Infra+Analyst+%7C+Linux+%26+Network+Engineer;Open+Source+%7C+Automation+%7C+Backend+Dev;Always+Learning+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
 ---
