@@ -32,7 +32,6 @@ rafael_piveta
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="30" alt="Networking"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30" alt="Bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" alt="PHP"/>
@@ -70,7 +69,6 @@ rafael_piveta
 
 - [LinkedIn](https://www.linkedin.com/in/rafael-oliveira-piveta/)
 - [Email](mailto:rafaeloliveira@hotmail.com)
-- Open to collaboration, tech talk, and FOSS contributions!
 
 ---
 
