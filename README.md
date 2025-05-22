@@ -24,7 +24,7 @@ rafael_piveta
 - 🖥️ Linux and Networking specialist; passionate about sysadmin, scripting, and open-source
 - 🤖 Automation junkie | Backend builder | API tinkerer
 - 🛰️ Computer networks, security, and virtualization geek
-- 🚀 Always exploring new stacks, tools, and FOSS projects
+- 🚀 Always exploring new stacks, tools and projects
 
 ---
 
