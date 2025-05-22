@@ -6,8 +6,8 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rafael-oliveira-piveta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:rafaeloliveira@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rafael-olivare-piveta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:rafaelolivare@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=RafaPiveta&style=for-the-badge" alt="profile views" />
 </p>
 
@@ -62,13 +62,6 @@ rafael_piveta
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaPiveta&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaPiveta&layout=compact&theme=radical" height="150"/>
 </p>
-
----
-
-## 🛰️ Connect & Collaborate
-
-- [LinkedIn]([https://www.linkedin.com/in/rafael-oliveira-piveta/](https://www.linkedin.com/in/rafael-olivare-piveta/))
-- [Email](mailto:rafaelolivare@hotmail.com)
 
 ---
 
