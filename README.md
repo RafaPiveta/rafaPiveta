@@ -56,27 +56,6 @@ rafael_piveta
 
 ---
 
-## ⚡ Selected Commands
-
-```bash
-# Check network interfaces
-ip addr
-
-# Show disk usage
-df -h
-
-# Monitor system processes
-htop
-
-# Quick Python HTTP server
-python3 -m http.server 8080
-
-# Find open ports
-sudo netstat -tuln
-```
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
