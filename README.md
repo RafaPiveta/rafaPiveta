@@ -1,6 +1,6 @@
 <h1 align="center">Rafael Piveta 👨‍💻</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=IT+Infra+Analyst+%7C+Linux+%26+Network+Engineer;Open+Source+%7C+Automation+%7C+Backend+Dev;Always+Learning+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0099FF&center=true&vCenter=true&width=800&lines=IT+Infra+Analyst+%7C+Linux+%26+Network+Engineer;Open+Source+%7C+Automation+%7C+Backend+Dev;Always+Learning+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,7 +21,7 @@ rafael_piveta
 ```
 
 - 💼 IT Infrastructure Analyst | Computer Engineering student @ PUCPR
-- 🖥️ Linux and Networking specialist; passionate about sysadmin, scripting, and open-source
+- 🖥️ Linux and Networking specialist; passionate about development, scripting, and open-source
 - 🤖 Automation junkie | Backend builder | API tinkerer
 - 🛰️ Computer networks, security, and virtualization geek
 - 🚀 Always exploring new stacks, tools and projects
@@ -47,10 +47,10 @@ rafael_piveta
 
 ## 📦 Toolbox
 
-- **OS:** Ubuntu, Debian, CentOS
-- **Languages:** Bash, Python, PHP, JS, C, SQL
-- **Infra:** Docker, SSH, Apache/Nginx, Hyper-V, VMWare
-- **DevOps:** Git, CI/CD, systemd, cron
+- **OS:** Ubuntu, Debian
+- **Languages:** Bash, Python, PHP, JS, C, SQL, HTML, CSS
+- **Infra:** SSH, Apache/Nginx, MySQL, Virtualization
+- **DevOps:** systemd, cron
 - **Other:** WordPress, Scriptcase, Electron, REST APIs
 
 ---
