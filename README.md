@@ -54,13 +54,21 @@ $ neofetch --role "Systems Engineer"
 
 ## 📈 GitHub Stats
 
+<!-- Linha 1: Os dois gráficos de linguagens lado a lado -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaPiveta&theme=radical" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaPiveta&theme=radical" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaPiveta&theme=radical" height="150"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaPiveta&theme=radical" width="100%"/>
 </p>
 
+<!-- Linha 2: Resumo do Perfil centralizado -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaPiveta&theme=radical" height="150"/>
+</p>
+
+<!-- Linha 3: Gráfico de Atividade de Commits -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaPiveta&theme=radical" width="100%"/>
+</p>
 ---
 
 > “Talk is cheap. Show me the code.” — Linus Torvalds
