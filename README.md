@@ -1,4 +1,4 @@
-<h1 align="center">Rafael Piveta</h1>
+<h1 align="center">Rafael Olivare Piveta</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0099FF&center=true&vCenter=true&width=1000&lines=Computer+Engineer+%7C+Systems+Engineer;High+Availability+%26+Linux+Infrastructure+Specialist;Proxmox+VE+Clusters%2C+ZFS+Storage+%26+pfSense%2FWireGuard;Infrastructure+Automation+(Ansible%2C+Python%2C+Bash)" alt="Typing SVG" />
 </p>
