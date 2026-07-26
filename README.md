@@ -45,37 +45,23 @@ $ neofetch --role "Systems Engineer"
 
 ---
 
-## 🚀 Repositórios e Projetos
-
-- 🛠️ **Linux & Infra Automation:** Scripts de automação em Python/Bash, configurações de rede e rotinas de manutenção de sistemas.
-- 🧠 **[Talking Buddy](https://rafapiveta.github.io/talking-buddy-project/):** Projeto acadêmico de assistente físico offline com Edge AI em Raspberry Pi 5.
-
----
-
 ## 📈 GitHub Stats
 
-<table align="center" border="0">
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaPiveta&theme=radical" height="150"/>
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaPiveta&theme=radical" height="150"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaPiveta&theme=radical" height="150"/>
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaPiveta&theme=radical&utcOffset=-3" height="150"/>
-    </td>
-  </tr>
-</table>
+<!-- Linha 1: Os dois gráficos de linguagens lado a lado -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaPiveta&theme=radical" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaPiveta&theme=radical" height="150"/>
+</p>
 
+<!-- Linha 2: Resumo do Perfil centralizado -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaPiveta&theme=radical" height="150"/>
+</p>
+
+<!-- Linha 3: Gráfico de Atividade de Commits -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaPiveta&theme=radical" width="100%"/>
-</p>  
+</p>
 
 ---
 
