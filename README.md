@@ -19,12 +19,12 @@
 $ neofetch --role "Systems Engineer"
 ```
 
-- ⚙️ **Systems & Infrastructure:** Sustentação e arquitetura de ambientes de **Alta Disponibilidade (HA)**, virtualização avançada e gerenciamento de servidores de missão crítica.
-- 🐧 **Linux Specialist:** Administração aprofundada de distribuições **Debian/Ubuntu**, gerenciamento de kernels e otimização de sistema.
-- 💾 **Virtualização & Storage:** Administração de clusters **Proxmox VE**, provisionamento de containers (LXC/Docker) e gerenciamento de armazenamento resiliente com **ZFS Mirror/RAID**.
-- 🔐 **Network & Security:** Implantação e manutenção de firewalls **pfSense**, túneis e VPNs Site-to-Site com **WireGuard**, e políticas rigorosas de hardening/SSH.
-- 🤖 **Infrastructure Automation:** Criação de rotinas de provisionamento, scripts de recuperação e automações de infraestrutura via **Python, Bash e Ansible**.
-- 📊 **Observabilidade:** Monitoramento contínuo de recursos, métricas e alertas com **Zabbix e Grafana**.
+- ⚙️ **Systems & Infrastructure:** Architecture, maintenance, and support for **High Availability (HA)** environments, advanced virtualization, and mission-critical server management.
+- 🐧 **Linux Specialist:** In-depth administration of **Debian/Ubuntu** distributions, kernel management, and system performance tuning.
+- 💾 **Virtualization & Storage:** Administration of **Proxmox VE** clusters, container provisioning (LXC/Docker), and resilient storage management using **ZFS Mirror/RAID**.
+- 🔐 **Network & Security:** Deployment and management of **pfSense** firewalls, Site-to-Site VPN tunnels with **WireGuard**, and strict SSH/system hardening policies.
+- 🤖 **Infrastructure Automation:** Development of provisioning routines, disaster recovery scripts, and infrastructure automation using **Python, Bash, and Ansible**.
+- 📊 **Observability:** Continuous resource monitoring, metrics collection, and alerting configured with **Zabbix and Grafana**.
 
 ---
 
@@ -47,18 +47,18 @@ $ neofetch --role "Systems Engineer"
 
 ## 📈 GitHub Stats
 
-<!-- Linha 1: Os dois gráficos de linguagens lado a lado -->
+<!-- Row 1: Language breakdown charts -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaPiveta&theme=radical" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaPiveta&theme=radical" height="150"/>
 </p>
 
-<!-- Linha 2: Resumo do Perfil centralizado -->
+<!-- Row 2: Profile summary card -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaPiveta&theme=radical" height="150"/>
 </p>
 
-<!-- Linha 3: Gráfico de Atividade de Commits -->
+<!-- Row 3: Commit activity graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaPiveta&theme=radical" width="100%"/>
 </p>
