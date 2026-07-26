@@ -47,20 +47,13 @@ $ neofetch --role "Systems Engineer"
 
 ## 📈 GitHub Stats
 
-<!-- Row 1: Language breakdown charts -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaPiveta&theme=radical" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaPiveta&theme=radical" height="150"/>
 </p>
 
-<!-- Row 2: Profile summary card -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaPiveta&theme=radical" height="150"/>
-</p>
-
-<!-- Row 3: Commit activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaPiveta&theme=radical" width="100%"/>
 </p>
 
 ---
