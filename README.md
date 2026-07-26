@@ -58,6 +58,7 @@ $ neofetch --role "Systems Engineer"
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaPiveta&theme=radical" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaPiveta&theme=radical" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaPiveta&theme=radical" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaPiveta&theme=radical" width="100%"/>
 </p>
 
 ---
