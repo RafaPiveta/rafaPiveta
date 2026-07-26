@@ -1,13 +1,14 @@
-<h1 align="center">Rafael Piveta</h1>
+<h1 align="center">Rafael Olivare Piveta</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0099FF&center=true&vCenter=true&width=1000&lines=IT+Infra+Analyst+%7C+Linux+%26+Network+Engineer;Open+Source+%7C+Automation+%7C+Backend+Dev;Always+Learning+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0099FF&center=true&vCenter=true&width=1000&lines=Computer+Engineer+%7C+Systems+Engineer;Linux+%26+Virtualization+(Proxmox+VE)+Specialist;Automation+(Ansible%2C+Python%2C+Bash)+%7C+IaC;High+Availability%2C+Observability+%26+Edge+AI" alt="Typing SVG" />
 </p>
 
 ---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-olivare-piveta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:rafaelolivare@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:rafa.piveta@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+  <a href="https://rafapiveta.github.io/talking-buddy-project/"><img src="https://img.shields.io/badge/Featured_Project-Edge_AI-0099FF?style=for-the-badge&logo=raspberrypi"/></a>
   <img src="https://komarev.com/ghpvc/?username=RafaPiveta&style=for-the-badge" alt="profile views" />
 </p>
 
@@ -20,38 +21,26 @@ $ whoami
 rafael_piveta
 ```
 
-- 💼 IT Infrastructure Analyst | Computer Engineering student @ PUCPR
-- 🖥️ Linux and Networking specialist; passionate about development, scripting, and open-source
-- 🤖 Automation junkie | Backend builder | API tinkerer
-- 🛰️ Computer networks, security, and virtualization geek
-- 🚀 Always exploring new stacks, tools and projects
+- 🎓 **Computer Engineer** graduated from PUCPR
+- 💼 **Systems Engineer** focused on High Availability (HA) and critical systems infrastructure
+- 🐧 **Linux & Virtualization Specialist** (Debian/Ubuntu, Proxmox VE Clusters, ZFS Storage)
+- 🔐 **Networking & Security** enthusiast (pfSense, WireGuard VPNs, Site-to-Site Tunnels)
+- 🤖 **Automation & IaC** advocate using Python, Bash, and Ansible
+- 🧠 **Edge AI & Embedded Systems** researcher (Whisper.cpp, local LLMs, Raspberry Pi 5)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Toolbox
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="30" alt="WordPress"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="30" alt="Electron"/>
-</p>
+### 🏗️ Infrastructure & Operations
+- **OS & Virtualization:** Debian, Ubuntu, Proxmox VE, ZFS Mirror/RAID, LXC, Podman/Docker
+- **Networking & Security:** pfSense, WireGuard, SSH, Firewalls, Site-to-Site VPN
+- **Observability:** Zabbix, Grafana
 
----
-
-## 📦 Toolbox
-
-- **OS:** Ubuntu, Debian
-- **Languages:** Bash, Python, PHP, JS, C, SQL, HTML, CSS
-- **Infra:** SSH, Apache/Nginx, MySQL, Virtualization
-- **DevOps:** systemd, cron
-- **Other:** WordPress, Scriptcase, Electron, REST APIs
+### 💻 Development & Automation
+- **Languages:** Python, Bash, C, C++, SQL
+- **IaC & Automation:** Ansible, systemd, cron, Git, REST APIs
+- **Hardware & Edge AI:** Raspberry Pi 5, RFID, Whisper.cpp, Local LLMs
 
 ---
 
